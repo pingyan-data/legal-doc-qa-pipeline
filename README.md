@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) system that lets you ask questions about the General Data Protection Regulation in **English or Chinese**, with answers grounded in the actual GDPR article text and full source citations.
 
-Live demo: [Streamlit Cloud](#) <!-- update after deploy -->
+Live demo: [gdpr-chatbot-pipeline.streamlit.app](https://gdpr-chatbot-pipeline.streamlit.app/)
 
 ---
 
