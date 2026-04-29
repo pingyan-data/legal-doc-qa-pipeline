@@ -1,0 +1,7 @@
+.env
+chroma_db/
+gdpr_articles.json
+__pycache__/
+.venv/
+.streamlit/secrets.toml
+.DS_Store

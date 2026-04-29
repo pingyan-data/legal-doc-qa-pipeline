@@ -1,0 +1,10 @@
+langchain==0.3.25
+langchain-openai==0.3.16
+langchain-community==0.3.24
+openai==1.78.0
+faiss-cpu
+beautifulsoup4==4.13.4
+requests==2.32.3
+streamlit==1.45.0
+python-dotenv==1.1.0
+tiktoken>=0.9.0
